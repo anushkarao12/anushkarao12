@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anushka Rao 👋
+A passionate student developer from Varanasi.
 
-<!--
-**anushkarao12/anushkarao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured Projects
+- 🧠 [Sentiment Analysis](https://github.com/anushkarao12/sentiment-analysis)
+- 🧍‍♀️ [Facial Recognition Attendance System](https://github.com/anushkarao12/facial-rec-attendance-system)
+- ✍️ [MNIST Digit Classifier](https://github.com/anushkarao12/mnist)
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- Python, JavaScript
+- scikit-learn, OpenCV, TensorFlow
+- HTML, CSS, JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkarao12&show_icons=true&theme=dark)
+
+## 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/anushka-rao-673651279)
