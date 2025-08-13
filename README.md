@@ -1,5 +1,5 @@
 # Hi, I'm Anushka Rao 👋
-A passionate student developer from Varanasi.
+A passionate student developer from Varanasi with a sidekick @brew (Corporatecat).
 
 ## 🌟 Featured Projects
 - 🧠 [Sentiment Analysis](https://github.com/anushkarao12/sentiment-analysis)
