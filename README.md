@@ -1,18 +1,25 @@
-# Hi, I'm Anushka Rao 👋
-A passionate student developer from Varanasi with a sidekick @brew (Corporatecat).
+# 👋 Hi, I’m Anushka Rao  
 
-## 🌟 Featured Projects
-- 🧠 [Sentiment Analysis](https://github.com/anushkarao12/sentiment-analysis)
-- 🧍‍♀️ [Facial Recognition Attendance System](https://github.com/anushkarao12/facial-rec-attendance-system)
-- ✍️ [MNIST Digit Classifier](https://github.com/anushkarao12/mnist)
+🚀 **Aspiring Software Developer** passionate about building **AI-powered, user-focused applications** that combine creativity, problem-solving, and clean design.  
 
-## 🧰 Tech Stack
-- Python, JavaScript
-- scikit-learn, OpenCV, TensorFlow
-- HTML, CSS, JS
+### 💻 Tech Stack  
+- **Languages:** Python, C, Java, JavaScript, HTML, CSS  
+- **Databases:** MySQL, MongoDB  
+- **Core Areas:** Data Structures & Algorithms, AI/ML, Cloud, Software Development  
+- **Tools & Extras:** Tkinter, OpenCV, Figma (basic), Manual Testing  
 
-## 📈 GitHub Stats
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkarao12&show_icons=true&theme=dark)
+### 🔬 Featured Projects  
+- 🧑‍🎓 **Attendance System using Facial Recognition** (Python, OpenCV)  
+- 🕷️ **Spider-Man Web Game** (JavaScript, HTML, CSS)  
+- 🖌️ **Mini Apps with Tkinter** – Paint App, Stopwatch, Digital Clock, Text Editor  
 
-## 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/anushka-rao-673651279)
+### 🌱 What I’m Exploring  
+- Artificial Intelligence & Machine Learning  
+- Cloud & Scalable Software Development  
+- Creative UI/UX for better user experiences  
+
+### 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/anushka-rao-673651279)  
+- [Email](mailto:anushka.ra520@gmail.com)  
+
+⭐️ _I believe technology should not only solve problems but also inspire and engage users._  
