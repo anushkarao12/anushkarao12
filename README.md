@@ -37,6 +37,10 @@ Because life isn’t just about code, here’s some *brew-tiful* fun:
 🐾 Just like my cat, I love to *pounce* on new challenges and *scratch* beneath the surface until I find elegant solutions.  
 💡 My mantra: _“Stay pawsitive, keep coding, and let curiosity lead the way.”_  
 
+<p align="center">
+  <img src="DD36A728-C45E-4D63-977F-7C3299108CB9.jpeg" alt="My coding buddy 🐱☕" width="500"/>
+</p>  
+
 ---
 
 ### 📊 GitHub Stats  
@@ -50,13 +54,6 @@ Because life isn’t just about code, here’s some *brew-tiful* fun:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkarao12&theme=radical" alt="GitHub Streak"/>
 </p>  
 
----
-
-### 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/anushka-rao-673651279)  
-- [Email](mailto:anushka.ra520@gmail.com)  
-
-⭐️ _I believe technology should not only solve problems but also inspire and engage users._  
 ---
 
 ### 📫 Let’s Connect  
