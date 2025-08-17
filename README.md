@@ -8,15 +8,18 @@
 - **Core Areas:** Data Structures & Algorithms, AI/ML, Cloud, Software Development  
 - **Tools & Extras:** Tkinter, OpenCV, Figma (basic), Manual Testing  
 
-### 🔬 Featured Projects  
-- 🧑‍🎓 **Attendance System using Facial Recognition** (Python, OpenCV)  
-- 🕷️ **Spider-Man Web Game** (JavaScript, HTML, CSS)  
-- 🖌️ **Mini Apps with Tkinter** – Paint App, Stopwatch, Digital Clock, Text Editor  
+### 🔬 Featured Projects
+	- 🧑‍🎓 Facial Recognition Attendance System — Python + OpenCV system that auto-detects faces and logs attendance in real time.
+	- 🤖 Mixture Model Algorithms — EM, Naive EM, and K-Means implementations in Python, showcasing algorithmic depth.
+	- 🎮 Spider-Man Web Game — An interactive browser-based game built with JavaScript, HTML, and CSS.
+	- 📝 Sentiment Analysis — NLP project classifying text into positive/negative sentiments.
+	- 🔢 MNIST Model Training — Handwritten digit recognition using neural networks.
+	- 🧠 Reinforcement Learning Agents — Training agents to learn optimal strategies through trial and error.
 
 ### 🌱 What I’m Exploring  
-- Artificial Intelligence & Machine Learning  
-- Cloud & Scalable Software Development  
-- Creative UI/UX for better user experiences  
+- Deepening skills in AI & Machine Learning
+- Building scalable cloud-native applications
+- Enhancing UI/UX design for practical, engaging tools
 
 ### 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/anushka-rao-673651279)  
