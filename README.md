@@ -38,7 +38,8 @@ Because life isn’t just about code, here’s some *brew-tiful* fun:
 💡 My mantra: _“Stay pawsitive, keep coding, and let curiosity lead the way.”_  
 
 <p align="center">
-  <img src="" alt="My coding buddy 🐱☕" width="500"/>
+  <img src="![WhatsApp Image 2025-08-23 at 23 01 34_de09ef10](https://github.com/user-attachments/assets/85335fa4-0644-4d24-8c45-04855bec20b5)
+" alt="My coding buddy 🐱☕" width="500"/>
 </p>  
 
 ---
