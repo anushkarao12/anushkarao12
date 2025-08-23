@@ -40,7 +40,7 @@ Because life isn’t just about code, here’s some *brew-tiful* fun:
  - Because no project is complete without a little help from my cat 😸  
 
 <p align="center">
-  <img src="./WhatsApp%20Image%202025-08-23%20at%2023.01.34_de09ef10.jpg" alt="Brew the Cat" width="500"/>
+  <img src="" alt="Brew the Cat" width="500"/>
 </p>
  
 
