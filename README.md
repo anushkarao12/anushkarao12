@@ -38,11 +38,6 @@ Because life isn’t just about code, here’s some *brew-tiful* fun:
 💡 My mantra: _“Stay pawsitive, keep coding, and let curiosity lead the way.”_  
 🐾 Coding Buddy – Brew Break
  - Because no project is complete without a little help from my cat 😸  
-
-<p align="center">
-  <img src="<img width="912" height="683" alt="image" src="https://github.com/user-attachments/assets/c27ee91c-91b2-4a3a-ba50-a9e59fbffd66" />
-" alt="Brew the Cat" width="500"/>
-</p>
  
 
 ---
