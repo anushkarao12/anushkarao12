@@ -36,11 +36,11 @@ Because life isn’t just about code, here’s some *brew-tiful* fun:
 😸 I’m a *purr-sistent* problem solver — no bug escapes my claws.  
 🐾 Just like my cat, I love to *pounce* on new challenges and *scratch* beneath the surface until I find elegant solutions.  
 💡 My mantra: _“Stay pawsitive, keep coding, and let curiosity lead the way.”_  
+🐾 Coding Buddy – Brew Break
+ - Because no project is complete without a little help from my cat 😸  
 
-<p align="center">
-  <img width="715" height="440" alt="image" src="![WhatsApp Image 2025-08-23 at 23 01 34_de09ef10](https://github.com/user-attachments/assets/00a5fa15-8d18-42c4-805a-95d27b01b008)
-" />
-</p>  
+![Brew the Cat](./WhatsApp%20Image%202025-08-23%20at%2023.01.34_de09ef10.jpg)
+ 
 
 ---
 
