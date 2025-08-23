@@ -37,7 +37,7 @@ Because life isn’t just about code, here’s some *brew-tiful* fun:
 🐾 Just like my cat, I love to *pounce* on new challenges and *scratch* beneath the surface until I find elegant solutions.  
 💡 My mantra: _“Stay pawsitive, keep coding, and let curiosity lead the way.”_  
 🐾 Coding Buddy – Brew Break
- - Because no project is complete without a little help from my cat 😸  
+_"Because no project is complete without a little help from my cat 😸."_  
  
 
 ---
